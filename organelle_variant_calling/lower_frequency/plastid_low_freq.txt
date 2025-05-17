@@ -1,0 +1,11 @@
+Library	Genome	Pos	SNV	Freq
+M1_7_F8	plastid	105147	C>T	0.110
+M2_4_F8	plastid	96545	T>C	0.131
+W2_1_F8	plastid	7336	A>G	0.132
+M2_2_F8	plastid	106604	T>C	0.135
+M3_3_F7	plastid	108066	A>G	0.143
+M1_6_F8	plastid	113424	C>T	0.148
+M2_6_F8	plastid	11627	T>C	0.151
+M3_4_F8	plastid	12509	A>G	0.171
+M3_2_F8	plastid	72431	T>C	0.175
+M2_5_F8	plastid	48972	T>C	0.189
